@@ -1,2 +1,1 @@
-# CommonAnimations
-CommonAnimations
+# Common Animation Set
